@@ -27,6 +27,7 @@
 
 <p class="mb-8">
     <h2>Tilma partnership</h2>
+    
     Langley, British Columbia is home to a very talented Catholic company called <a href="https://www.glasscanvas.io/" target="_blank">Glass Canvas</a> who produce <a href="https://www.tilmaplatform.com/" target="_blank">Tilma</a>, a simple and powerful platform for dioceses, parishes, schools, and ministries. In September 2021, DeSales entered into partnership with them to bring Tilma to as many places as possible, in an effort to modernize the Church and empower those in ministry to unlock their potential.
 </p>
 
@@ -41,6 +42,7 @@
 <p class="mb-8">
     <h2>"Teach a Church to Tech"</h2>
     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/mG3FXBOzzu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p class="mb-8">
     In the Summer of 2018, I created and organized a panel at the Napa Institute Conference called <a href="https://desalesmedia.org/3-ways-tech-can-brighten-the-future-of-the-church/" target="_blank">"Teach a Church to Tech"</a>. A few of us at DeSales Media along with some colleagues discussed the near and potentially grim future of the church, and what might be done about it. As a follow-up, I created and manage a LinkedIn group called <a href="http://digitalcatholics.org" target="_blank">Digital Catholics</a>, which badly needs a moderator. Please let me know if you're interested!
 </p>
 
