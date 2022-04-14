@@ -14,9 +14,11 @@
         alt="About image"
         class="flex rounded-full h-64 w-64 bg-contain mx-auto md:float-right my-6 md:ml-10">
 
-    <p class="mb-6">This is where you can give a little more information about yourself or site. If you'd like to change the structure of this page, you can find the file at <code>source/about.blade.php</code></p>
+    <p class="mb-6">I am a Christian in the Roman Catholic tradition. This means I am called to love others as God loves me. If that seems all-encompassing, it is. I am pretty bad at it, but I am trying. It's a pretty high bar.</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam possimus earum harum itaque est!</p>
+    <p class="mb-6">Speaking of bars, I'm pretty into cocktails and beer. I also love music and books and games and traveling with my wife.</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam!</p>
+    <p class="mb-6">I work at <a href="https://desalesmedia.org">DeSales Media</a>, a nonprofit based in Brooklyn, New York. Our mission is drive Catholics to put their faith in action. I lead DeSales Tech as Director of Product & Innovation, where we bring technology solutions to parishes, schools, and dioceses. We also work to better understand formation, discipleship and evangelization so that we can all do a better job of it.</p>
+    
+    <p class="mb-6">If you'd like to get in touch, you can find me on <a href="http://www.linkedin.com/in/daveplisky">LinkedIn</a>.</p>
 @endsection
