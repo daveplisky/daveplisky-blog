@@ -18,7 +18,7 @@
 
     <p class="mb-6">Speaking of bars, I'm pretty into cocktails and beer. I also love music and books and games and traveling with my wife.</p>
 
-    <p class="mb-6">I work at <a href="https://desalesmedia.org">DeSales Media</a>, a nonprofit based in Brooklyn, New York. Our mission is drive Catholics to put their faith in action. I lead DeSales Tech as Director of Product & Innovation, where we bring technology solutions to parishes, schools, and dioceses. We also work to better understand formation, discipleship and evangelization so that we can all do a better job of it.</p>
+    <p class="mb-6">I work at <a href="https://desalesmedia.org" target="_blank">DeSales Media</a>, a nonprofit based in Brooklyn, New York. Our mission is drive Catholics to put their faith in action. I lead DeSales Tech as Director of Product & Innovation, where we bring technology solutions to parishes, schools, and dioceses. We also work to better understand formation, discipleship and evangelization so that we can all do a better job of it.</p>
     
-    <p class="mb-6">If you'd like to get in touch, you can find me on <a href="http://www.linkedin.com/in/daveplisky">LinkedIn</a>.</p>
+    <p class="mb-6">If you'd like to get in touch, you can find me on <a href="http://www.linkedin.com/in/daveplisky" target="_blank">LinkedIn</a>.</p>
 @endsection
