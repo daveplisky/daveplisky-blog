@@ -27,7 +27,8 @@
 
 <p class="mb-8">
     <h2>Tilma partnership</h2>
-    
+    <center><img src="assets/img/Tilma-Colour.png" alt="Tilma logo"></center>
+<p class="mb-8">
     Langley, British Columbia is home to a very talented Catholic company called <a href="https://www.glasscanvas.io/" target="_blank">Glass Canvas</a> who produce <a href="https://www.tilmaplatform.com/" target="_blank">Tilma</a>, a simple and powerful platform for dioceses, parishes, schools, and ministries. In September 2021, DeSales entered into partnership with them to bring Tilma to as many places as possible, in an effort to modernize the Church and empower those in ministry to unlock their potential.
 </p>
 
@@ -36,7 +37,7 @@
     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8y4Y_09V7VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p class="mb-8">
-    An animated video created by <a href="https://www.imbeggar.com/" target="_blank">I M Beggar</a> that I produced in December 2018. Gen Zers are often overlooked in the Church. In this campaign, we targeted young people who may not be considering church at Christmastime. 
+    This is an animated video created by <a href="https://www.imbeggar.com/" target="_blank">I M Beggar</a> that I produced in December 2018. Gen Zers are often overlooked in the Church. In this campaign, we targeted young people who may not be considering church at Christmastime. 
 </p>
 
 <p class="mb-8">
