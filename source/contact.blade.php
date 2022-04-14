@@ -11,8 +11,9 @@
 <h1>Some of my work</h1>
 
 <p class="mb-8">
-    <h2>What are you doing for Christmas?</h2>An animated video created by I M Beggar that I produced in December 2018. Gen Z-ers are often overlooked in the church. In this campaign, we targeted young people who may not be considering church at Christmastime. 
-www.youtube.com/watch?v=8y4Y_09V7VM
+    <h2>What are you doing for Christmas?</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8y4Y_09V7VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    An animated video created by <a href=<https://www.imbeggar.com/> target="_blank">I M Beggar</a> that I produced in December 2018. Gen Zers are often overlooked in the Church. In this campaign, we targeted young people who may not be considering church at Christmastime. 
 </p>
 
 <form action="/contact" class="mb-12">
