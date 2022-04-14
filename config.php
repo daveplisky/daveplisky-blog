@@ -5,9 +5,9 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'NetlifyCMS Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw & NetlifyCMS',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'My name is Dave Plisky.',
+    'siteDescription' => 'Here are some of my projects and thoughts.',
+    'siteAuthor' => 'Dave Plisky',
 
     // collections
     'collections' => [
