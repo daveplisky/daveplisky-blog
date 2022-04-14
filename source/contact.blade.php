@@ -1,17 +1,18 @@
 @extends('_layouts.master')
 
 @push('meta')
-    <meta property="og:title" content="Contact {{ $page->siteName }}" />
+    <meta property="og:title" content="Projects {{ $page->siteName }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="Get in touch with {{ $page->siteName }}" />
 @endpush
 
 @section('body')
-<h1>Contact</h1>
+<h1>Some of my work</h1>
 
 <p class="mb-8">
-    Static sites are unable to handle form submissions. However, there are third-party services, like Tighten’s <a href="https://fieldgoal.io" title="FieldGoal">FieldGoal</a>, which can accept the form submission, email you the result, and redirect back to a thank you page.
+    <h2>What are you doing for Christmas?</h2>An animated video created by I M Beggar that I produced in December 2018. Gen Z-ers are often overlooked in the church. In this campaign, we targeted young people who may not be considering church at Christmastime. 
+www.youtube.com/watch?v=8y4Y_09V7VM
 </p>
 
 <form action="/contact" class="mb-12">
