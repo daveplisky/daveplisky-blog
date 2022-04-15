@@ -27,7 +27,7 @@
 
 <p class="mb-8">
     <h2>Tilma partnership</h2>
-    <center><img src="/assets/img/Tilma-Colour.png" alt="Tilma logo"></center>
+    <center><img src="/assets/img/Tilma-Colour.png" alt="Tilma logo" style="width:300px"></center>
 <p class="mb-8">
     Langley, British Columbia is home to a very talented Catholic company called <a href="https://www.glasscanvas.io/" target="_blank">Glass Canvas</a> who produce <a href="https://www.tilmaplatform.com/" target="_blank">Tilma</a>, a simple and powerful platform for dioceses, parishes, schools, and ministries. In September 2021, DeSales entered into partnership with them to bring Tilma to as many places as possible, in an effort to modernize the Church and empower those in ministry to unlock their potential.
 </p>
