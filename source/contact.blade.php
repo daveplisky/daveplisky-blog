@@ -13,6 +13,7 @@
 <p class="mb-8">
     <h2>Mentorship</h2>
         <center><img src="/assets/img/SENT-Retreat.jpg" alt="SENT Retreat group photo" style="width:560px"></center>
+<p class="mb-8">
     I have been a member of a <a href="https://www.sentventures.com/" target="_blank">SENT Ventures</a> peer mentorship community since April 2020. It's an opportunity for Catholics to share our personal, business, and spiritual journeys and help one another through focused strategy sessions. Fast forward two years, and now I am mentoring on my own through SENT. It is gratifying to share some of my experience, and I know that I am learning just as much as my mentee in the process.
 </p>
 
